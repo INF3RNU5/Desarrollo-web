@@ -1,0 +1,19 @@
+body{
+    background-color: pink;
+}
+
+h1 {
+    color: purple;
+}
+
+h2{
+    color: red;
+}
+
+p{
+    color: blue;
+}
+
+img{
+    border: 20px solid green;
+}
